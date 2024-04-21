@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "932579730197",
+    "project_id": "leprekonapp",
+    "storage_bucket": "leprekonapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932579730197:android:257dc9554ee489e3137f1c",
+        "android_client_info": {
+          "package_name": "com.example.leprekon_program"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf5k0kTR0a6llA7Dwha8ZL63yBP_qMErc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
